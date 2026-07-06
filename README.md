@@ -1,22 +1,9 @@
-Smart Library Management System (SLMS)
+Member Management Module
 
-Project Description
+Features
 
-The Smart Library Management System (SLMS) is a web-based application designed to automate library operations at ABC State University.
-Project Modules
+- Register New Member
+- Update Member Information
+- Delete Member Record
+- Search Member
 
-
-- Member Management
-- Book Catalog
-- Book Borrowing
-- Book Returning
-- Inventory Management
-- Reports
-
-Development Team
-
-Student Name: Francis O Sagales 
-
-Course: BSIT SD
-
-Section: 2-C
