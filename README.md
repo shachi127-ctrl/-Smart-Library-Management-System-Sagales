@@ -1,9 +1,6 @@
-Member Management Module
+Project Modules
 
-Features
-
-- Register New Member
-- Update Member Information
-- Delete Member Record
-- Search Member
-
+- Book Catalog
+- Inventory Management
+- Reports
+- User Accounts
